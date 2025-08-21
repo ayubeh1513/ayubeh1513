@@ -1,5 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/1*YCrp0Z8mAOe2IUV9XmlEDw.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Ayushman Behera</h1>
 <h3 align="center">A Aspiring Data Scientist and ML Engineer</h3>
 
